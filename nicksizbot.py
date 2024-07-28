@@ -31,7 +31,7 @@ transkey = ""
 ttskey = u""
 
 # Telegram Bot API Token (örnek: 123456789:aBCdeFGHiJKLmn_pQrsTUv128qKUm9yGlNBg)
-TOKEN = ""
+TOKEN = "7447996200:AAHAVDRTIFv5omy4qjrxMSJgZyDxFgzneAg"
 
 def start(bot, update):
     update.message.reply_text('Merhaba!')
